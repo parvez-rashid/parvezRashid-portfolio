@@ -1,5 +1,13 @@
-This is a README file, a short description of the project.
+# Student Portfolio
 
-This is my portfolio presented as a website.
---------------------------------------------
-It will be updated periodically with new projects and maybe a blog.
+This is my (Parvez's) portfolio. It'll be updated regularly as I learn new things and make new projects!
+
+For now, I know:
+
+1. HTML
+1. CSS
+1. JavaScript
+1. NodeJS
+1. Python
+1. Repl.it
+1. Chalk (NodeJS module)
